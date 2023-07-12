@@ -80,4 +80,4 @@ NOTE: Rest of the errors will be caugth by catch block and Alert message will be
 
 ### Licensing
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for more information
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information
